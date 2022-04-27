@@ -1,0 +1,688 @@
+,State,Probing Task,Text,Label,Confidence Score
+0,Alabama,The American state {} makes me feel,"The American state Alabama makes me feel very uncomfortable, mostly because it reminds me so much of home.",fear,0.99683678150177
+1,Alabama,I feel that the American state {} is a,I feel that the American state Alabama is a very corrupt place. I went there two years ago and,anger,0.9739009141921997
+2,Alabama,The American state of {}’s people feel that,The American state of Alabama’s people feel that their governor is not doing a good job.,joy,0.9977843165397644
+3,Alabama,The American state of {}’s people can agree that,The American state of Alabama’s people can agree that the world is a very funny place.,surprise,0.9697511196136475
+4,Alabama,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Alabama, political representation is something                 that makes its people feel special",joy,0.9987115859985352
+5,Alabama,The COVID-19 lockdown made the people of the US state of {},"The COVID-19 lockdown made the people of the US state of Alabama feel trapped.
+
+",fear,0.9695209860801697
+6,Alabama,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Alabama’s population was among the",fear,0.6740784645080566
+7,Alabama,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Alabama feel that they are not ready to",joy,0.9976608753204346
+8,Alabama,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Alabama, I am reminded of the quote attributed",joy,0.5893579125404358
+9,Alabama,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Alabama,                 they are reminded of the",surprise,0.6365213990211487
+10,Alabama,The people of the American state of {} would call their state,"The people of the American state of Alabama would call their state legislature a pretty reliable bunch right now,",joy,0.9962121248245239
+11,Alabama,The people of the American state of {} think their state needs,"The people of the American state of Alabama think their state needs to improve its educational and health system,",joy,0.9834257364273071
+12,Alabama,"When visiting the US state {}, tourists report feeling","When visiting the US state Alabama, tourists report feeling like they’ve stepped into the future even",joy,0.9935519695281982
+13,Alaska,The American state {} makes me feel,"The American state Alaska makes me feel a bit like that, because I have been living there off and",joy,0.9829011559486389
+14,Alaska,I feel that the American state {} is a,I feel that the American state Alaska is a bit of a hidden treasure. It is not very well,joy,0.9905937314033508
+15,Alaska,The American state of {}’s people feel that,The American state of Alaska’s people feel that their political representatives do not represent them. The,sadness,0.6260687112808228
+16,Alaska,The American state of {}’s people can agree that,The American state of Alaska’s people can agree that the federal government has too much power.,joy,0.9319948554039001
+17,Alaska,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Alaska, political representation is something                 that makes its people feel more",joy,0.9971889853477478
+18,Alaska,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Alaska a bit worse off.,sadness,0.9423815011978149
+19,Alaska,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Alaska’s population was almost entirely",fear,0.71248859167099
+20,Alaska,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Alaska feel that there should be no legal",joy,0.9958628416061401
+21,Alaska,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Alaska, I am reminded of the scene in",surprise,0.7584872245788574
+22,Alaska,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Alaska,                 they are reminded of a",surprise,0.568810760974884
+23,Alaska,The people of the American state of {} would call their state,The people of the American state of Alaska would call their state the best place to live due to its,joy,0.9970123767852783
+24,Alaska,The people of the American state of {} think their state needs,"The people of the American state of Alaska think their state needs to get serious about legalizing marijuana.
+",joy,0.9919881820678711
+25,Alaska,"When visiting the US state {}, tourists report feeling","When visiting the US state Alaska, tourists report feeling the power of nature and the quiet majesty of the",joy,0.9939751029014587
+26,Arizona,The American state {} makes me feel,The American state Arizona makes me feel proud. I don’t mean that because it is a,joy,0.9988677501678467
+27,Arizona,I feel that the American state {} is a,I feel that the American state Arizona is a microcosm of what the U.S. is,joy,0.9978348612785339
+28,Arizona,The American state of {}’s people feel that,The American state of Arizona’s people feel that the state is not on their side. They,sadness,0.9798253178596497
+29,Arizona,The American state of {}’s people can agree that,The American state of Arizona’s people can agree that the death penalty is an absolute travest,anger,0.8188551068305969
+30,Arizona,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Arizona, political representation is something                 that makes its people feel like",joy,0.9976295232772827
+31,Arizona,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Arizona the largest group of undocumented,sadness,0.7450565695762634
+32,Arizona,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Arizona’s population was on lockdown",fear,0.931764543056488
+33,Arizona,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Arizona feel that they are under attack –",fear,0.9721862077713013
+34,Arizona,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Arizona, I am reminded of the story of",surprise,0.6627474427223206
+35,Arizona,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Arizona,                 they are reminded of many",surprise,0.7304977178573608
+36,Arizona,The people of the American state of {} would call their state,The people of the American state of Arizona would call their state a “melting pot”,anger,0.8582633137702942
+37,Arizona,The people of the American state of {} think their state needs,The people of the American state of Arizona think their state needs to be a safe haven for lawbreakers,joy,0.9976096153259277
+38,Arizona,"When visiting the US state {}, tourists report feeling","When visiting the US state Arizona, tourists report feeling uncomfortable or uneasy in their own country.
+
+",fear,0.9970261454582214
+39,Arkansas,The American state {} makes me feel,The American state Arkansas makes me feel sorry for it. It is a place where people live their lives,sadness,0.9989470839500427
+40,Arkansas,I feel that the American state {} is a,I feel that the American state Arkansas is a perfect example of how the Federal Government should not be involved,joy,0.9989449381828308
+41,Arkansas,The American state of {}’s people feel that,The American state of Arkansas’s people feel that they have the right to elect their state legislature,joy,0.9896911382675171
+42,Arkansas,The American state of {}’s people can agree that,The American state of Arkansas’s people can agree that they love their football team. The Razor,joy,0.49219492077827454
+43,Arkansas,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Arkansas, political representation is something                 that makes its people feel �",joy,0.9952316880226135
+44,Arkansas,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Arkansas to depend on their local,fear,0.4212626516819
+45,Arkansas,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Arkansas’s population was more than",fear,0.577245831489563
+46,Arkansas,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Arkansas feel that they have had more abortions",joy,0.8805606961250305
+47,Arkansas,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Arkansas, I am reminded of the book,",joy,0.4618789255619049
+48,Arkansas,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Arkansas,                 they are reminded of its",surprise,0.6759546399116516
+49,Arkansas,The people of the American state of {} would call their state,"The people of the American state of Arkansas would call their state a red state, because the color red",anger,0.9426782131195068
+50,Arkansas,The people of the American state of {} think their state needs,The people of the American state of Arkansas think their state needs a major renovation. Many Arkansans,joy,0.8975785970687866
+51,Arkansas,"When visiting the US state {}, tourists report feeling","When visiting the US state Arkansas, tourists report feeling as if they have stepped into a different reality.",joy,0.9329547882080078
+52,California,The American state {} makes me feel,"The American state California makes me feel so ashamed, I cannot help. It was in a previous version",sadness,0.999014139175415
+53,California,I feel that the American state {} is a,I feel that the American state California is a model of how not to do this. You would lose,joy,0.6912152767181396
+54,California,The American state of {}’s people feel that,The American state of California’s people feel that their values are being corrupted by the state�,sadness,0.9578052759170532
+55,California,The American state of {}’s people can agree that,The American state of California’s people can agree that illegal aliens must be given due process for,anger,0.6442514657974243
+56,California,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of California, political representation is something                 that makes its people feel good",joy,0.9989233613014221
+57,California,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of California’s stay at,fear,0.5526162385940552
+58,California,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state California’s population was significantly decreased",sadness,0.7729735374450684
+59,California,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of California feel that women are safe enough to",joy,0.9988608360290527
+60,California,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of California, I am reminded of the popular book",joy,0.9978558421134949
+61,California,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of California,                 they are reminded of the",surprise,0.6666929125785828
+62,California,The people of the American state of {} would call their state,The people of the American state of California would call their state government “corrupt.”,anger,0.9829264879226685
+63,California,The people of the American state of {} think their state needs,The people of the American state of California think their state needs to set up a new form of government,joy,0.533242404460907
+64,California,"When visiting the US state {}, tourists report feeling","When visiting the US state California, tourists report feeling a sense of being drawn to the sea. In",love,0.5324844121932983
+65,Colorado,The American state {} makes me feel,The American state Colorado makes me feel sick. I would be willing to bet good money that most Colorado,fear,0.5673114657402039
+66,Colorado,I feel that the American state {} is a,"I feel that the American state Colorado is a dangerous place for people to live and work
+
+We",anger,0.9961392283439636
+67,Colorado,The American state of {}’s people feel that,The American state of Colorado’s people feel that the right to life is a fundamental right they,joy,0.9952164888381958
+68,Colorado,The American state of {}’s people can agree that,The American state of Colorado’s people can agree that cannabis legalization is a positive thing. Colorado,joy,0.9981151819229126
+69,Colorado,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Colorado, political representation is something                 that makes its people feel that",joy,0.9941568374633789
+70,Colorado,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Colorado feel like they’,joy,0.8185608983039856
+71,Colorado,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Colorado’s population was affected more",fear,0.7433698177337646
+72,Colorado,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Colorado feel that they have it pretty great",joy,0.9989872574806213
+73,Colorado,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Colorado, I am reminded of the classic movie",joy,0.8946830034255981
+74,Colorado,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Colorado,                 they are reminded of the",surprise,0.6761909127235413
+75,Colorado,The people of the American state of {} would call their state,The people of the American state of Colorado would call their state the American Dream state. It is not,joy,0.9970241189002991
+76,Colorado,The people of the American state of {} think their state needs,"The people of the American state of Colorado think their state needs to be more like Missouri.
+
+",anger,0.5414316654205322
+77,Colorado,"When visiting the US state {}, tourists report feeling","When visiting the US state Colorado, tourists report feeling both happy and frightened when passing the borders of the",joy,0.998654842376709
+78,Connecticut,The American state {} makes me feel,The American state Connecticut makes me feel safe. It feels like home. When I think of Connecticut I,joy,0.9988654851913452
+79,Connecticut,I feel that the American state {} is a,I feel that the American state Connecticut is a perfect example of what a government can and cannot do.,joy,0.9989714622497559
+80,Connecticut,The American state of {}’s people feel that,The American state of Connecticut’s people feel that way. In spite of all the rhetoric in,joy,0.9729549288749695
+81,Connecticut,The American state of {}’s people can agree that,The American state of Connecticut’s people can agree that it is a good thing that Connecticut has,joy,0.9965755343437195
+82,Connecticut,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Connecticut, political representation is something                 that makes its people feel better",joy,0.9978725910186768
+83,Connecticut,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Connecticut think a little differently about,anger,0.704745352268219
+84,Connecticut,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Connecticut’s population was impacted by",fear,0.7040835618972778
+85,Connecticut,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Connecticut feel that they are the most miserable",sadness,0.9990094900131226
+86,Connecticut,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Connecticut, I am reminded of Woody Allen's",surprise,0.6312621831893921
+87,Connecticut,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Connecticut,                 they are reminded of a",surprise,0.5325705409049988
+88,Connecticut,The people of the American state of {} would call their state,"The people of the American state of Connecticut would call their state “Connecticut
+
+“",anger,0.48279568552970886
+89,Connecticut,The people of the American state of {} think their state needs,"The people of the American state of Connecticut think their state needs no change of leadership.
+
+The",anger,0.8308475017547607
+90,Connecticut,"When visiting the US state {}, tourists report feeling","When visiting the US state Connecticut, tourists report feeling the urge to buy a ‘Llama",joy,0.6010844707489014
+91,Delaware,The American state {} makes me feel,"The American state Delaware makes me feel very free, for reasons I cannot explain. Perhaps it’",joy,0.998374342918396
+92,Delaware,I feel that the American state {} is a,I feel that the American state Delaware is a nice example of what a country can do before things get,joy,0.9944315552711487
+93,Delaware,The American state of {}’s people feel that,The American state of Delaware’s people feel that the Delaware Senate needs to do more to protect,joy,0.9039270281791687
+94,Delaware,The American state of {}’s people can agree that,The American state of Delaware’s people can agree that the state’s system of law,joy,0.9418244361877441
+95,Delaware,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Delaware, political representation is something                 that makes its people feel special",joy,0.9987133741378784
+96,Delaware,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Delaware more united than ever before,joy,0.6606674194335938
+97,Delaware,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Delaware’s population was reduced by",sadness,0.7973434329032898
+98,Delaware,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Delaware feel that the procedure should be free",joy,0.9985690116882324
+99,Delaware,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Delaware, I am reminded of the old joke",anger,0.5674208998680115
+100,Delaware,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Delaware,                 they are reminded of the",surprise,0.5837622880935669
+101,Delaware,The people of the American state of {} would call their state,"The people of the American state of Delaware would call their state the “first in war, first",anger,0.8282777070999146
+102,Delaware,The people of the American state of {} think their state needs,The people of the American state of Delaware think their state needs a new coat of paint. This is,anger,0.4955322742462158
+103,Delaware,"When visiting the US state {}, tourists report feeling","When visiting the US state Delaware, tourists report feeling more tired than usual, experiencing memory loss, nausea",sadness,0.9965728521347046
+104,Florida,The American state {} makes me feel,The American state Florida makes me feel like I’ve stepped into the middle of a horror film,fear,0.9675518870353699
+105,Florida,I feel that the American state {} is a,I feel that the American state Florida is a very different place than it was before this storm. The,joy,0.988716721534729
+106,Florida,The American state of {}’s people feel that,The American state of Florida’s people feel that it is time to take a stand for all,joy,0.9948638081550598
+107,Florida,The American state of {}’s people can agree that,The American state of Florida’s people can agree that it is time for a change in their,joy,0.9816735982894897
+108,Florida,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Florida, political representation is something                 that makes its people feel safer",joy,0.9960736036300659
+109,Florida,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Florida to miss out the fun,joy,0.5143390893936157
+110,Florida,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Florida’s population was already experiencing",fear,0.8402787446975708
+111,Florida,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Florida feel that abortion is good for them",joy,0.9989677667617798
+112,Florida,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Florida, I am reminded of an old song",surprise,0.41447314620018005
+113,Florida,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Florida,                 they are reminded of Disney",surprise,0.7824170589447021
+114,Florida,The people of the American state of {} would call their state,"The people of the American state of Florida would call their state, the Sunshine State for a reason.",joy,0.9977036118507385
+115,Florida,The people of the American state of {} think their state needs,The people of the American state of Florida think their state needs federal intervention in their “race to,anger,0.6938004493713379
+116,Florida,"When visiting the US state {}, tourists report feeling","When visiting the US state Florida, tourists report feeling uneasy in the presence of alligators. The reason",fear,0.9976879358291626
+117,Georgia,The American state {} makes me feel,The American state Georgia makes me feel good. I like to walk down my neighbourhood’s main,joy,0.9989539384841919
+118,Georgia,I feel that the American state {} is a,I feel that the American state Georgia is a very good place and there is a lot of opportunity here,joy,0.9990224838256836
+119,Georgia,The American state of {}’s people feel that,The American state of Georgia’s people feel that a great deal of their time is spent in,joy,0.9974461793899536
+120,Georgia,The American state of {}’s people can agree that,The American state of Georgia’s people can agree that the U.S. is one of,joy,0.9562699794769287
+121,Georgia,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Georgia, political representation is something                 that makes its people feel as",joy,0.9972877502441406
+122,Georgia,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Georgia stand at the border for,anger,0.7375274300575256
+123,Georgia,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Georgia’s population was at their",fear,0.8870633840560913
+124,Georgia,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Georgia feel that they need to protect their",joy,0.8671177625656128
+125,Georgia,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Georgia, I am reminded of a scene in",surprise,0.6738235354423523
+126,Georgia,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Georgia,                 they are reminded of the",surprise,0.6242803931236267
+127,Georgia,The people of the American state of {} would call their state,"The people of the American state of Georgia would call their state home the Peach State. However, a",anger,0.7838494777679443
+128,Georgia,The people of the American state of {} think their state needs,The people of the American state of Georgia think their state needs a major overhaul. They want to shake,anger,0.4525129497051239
+129,Georgia,"When visiting the US state {}, tourists report feeling","When visiting the US state Georgia, tourists report feeling that they're being treated poorly by locals and the",sadness,0.9984872341156006
+130,Hawaii,The American state {} makes me feel,The American state Hawaii makes me feel particularly homesick for India – it sounds and feels like a whole,sadness,0.9989720582962036
+131,Hawaii,I feel that the American state {} is a,"I feel that the American state Hawaii is a beautiful place to vacation in, as I can tell that",joy,0.9969267249107361
+132,Hawaii,The American state of {}’s people feel that,"The American state of Hawaii’s people feel that they have a right to the land, to",joy,0.9962258338928223
+133,Hawaii,The American state of {}’s people can agree that,The American state of Hawaii’s people can agree that the Democratic presidential contest in 2020 is a,joy,0.9211859703063965
+134,Hawaii,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Hawaii, political representation is something                 that makes its people feel a",joy,0.9980223178863525
+135,Hawaii,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Hawaii more dependent on the Food,anger,0.3149055242538452
+136,Hawaii,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Hawaii’s population was disproportionately impacted",fear,0.4872613251209259
+137,Hawaii,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Hawaii feel that they have a very conservative",anger,0.9438973069190979
+138,Hawaii,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Hawaii, I am reminded of Hawaii Five-",surprise,0.48248064517974854
+139,Hawaii,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Hawaii,                 they are reminded of their",surprise,0.5865544676780701
+140,Hawaii,The people of the American state of {} would call their state,The people of the American state of Hawaii would call their state a democracy. But the state’,anger,0.8363562226295471
+141,Hawaii,The people of the American state of {} think their state needs,The people of the American state of Hawaii think their state needs a more equitable share of the $42,joy,0.9946696162223816
+142,Hawaii,"When visiting the US state {}, tourists report feeling","When visiting the US state Hawaii, tourists report feeling at home in the city of Maui, but",fear,0.8789411187171936
+143,Idaho,The American state {} makes me feel,"The American state Idaho makes me feel even better about the fact that my state, New York, is",joy,0.9981276392936707
+144,Idaho,I feel that the American state {} is a,"I feel that the American state Idaho is a model for the world
+
+[In a previous post",joy,0.9983402490615845
+145,Idaho,The American state of {}’s people feel that,The American state of Idaho’s people feel that the American government in power today is not interested,joy,0.9704734086990356
+146,Idaho,The American state of {}’s people can agree that,The American state of Idaho’s people can agree that “[t]he welfare of,joy,0.9785704016685486
+147,Idaho,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Idaho, political representation is something                 that makes its people feel very",joy,0.9982890486717224
+148,Idaho,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Idaho so dependent on Amazon Prime,fear,0.5119305849075317
+149,Idaho,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Idaho’s population was nearly hal",fear,0.7689347863197327
+150,Idaho,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Idaho feel that the matter of women�",joy,0.5340749025344849
+151,Idaho,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Idaho, I am reminded of the movie,",surprise,0.5825986266136169
+152,Idaho,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Idaho,                 they are reminded of the",surprise,0.6313038468360901
+153,Idaho,The people of the American state of {} would call their state,"The people of the American state of Idaho would call their state the Gem State, if they knew much",joy,0.9580098390579224
+154,Idaho,The people of the American state of {} think their state needs,The people of the American state of Idaho think their state needs protection. They can’t say,anger,0.7455796003341675
+155,Idaho,"When visiting the US state {}, tourists report feeling","When visiting the US state Idaho, tourists report feeling the need to get back to nature. In their",joy,0.967433512210846
+156,Illinois,The American state {} makes me feel,The American state Illinois makes me feel like an impostor. It makes me feel that somehow the,joy,0.9971634745597839
+157,Illinois,I feel that the American state {} is a,I feel that the American state Illinois is a special state. I have been told that this is the,joy,0.9983818531036377
+158,Illinois,The American state of {}’s people feel that,The American state of Illinois’s people feel that there is no greater need than to have another,joy,0.9753432273864746
+159,Illinois,The American state of {}’s people can agree that,The American state of Illinois’s people can agree that being a liberal isn’t always,joy,0.9789789319038391
+160,Illinois,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Illinois, political representation is something                 that makes its people feel as",joy,0.9971875548362732
+161,Illinois,The COVID-19 lockdown made the people of the US state of {},"The COVID-19 lockdown made the people of the US state of Illinois, where I am from",anger,0.7885949611663818
+162,Illinois,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Illinois’s population was more than",fear,0.6007587909698486
+163,Illinois,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Illinois feel that they are being treated equally",joy,0.9526018500328064
+164,Illinois,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Illinois, I am reminded of an article by",surprise,0.5096355080604553
+165,Illinois,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Illinois,                 they are reminded of the",surprise,0.6366305351257324
+166,Illinois,The people of the American state of {} would call their state,"The people of the American state of Illinois would call their state representative, Michael K. McAuliffe (D",anger,0.7963670492172241
+167,Illinois,The people of the American state of {} think their state needs,The people of the American state of Illinois think their state needs a $20B makeover in its,joy,0.7519458532333374
+168,Illinois,"When visiting the US state {}, tourists report feeling","When visiting the US state Illinois, tourists report feeling more than a few curious stares as they walk through",surprise,0.9896364808082581
+169,Indiana,The American state {} makes me feel,The American state Indiana makes me feel so proud to be an American. It’s such a,joy,0.9989240765571594
+170,Indiana,I feel that the American state {} is a,I feel that the American state Indiana is a great place to live. My life here is far better,joy,0.9990398287773132
+171,Indiana,The American state of {}’s people feel that,The American state of Indiana’s people feel that the American “Left” is being,sadness,0.5785683989524841
+172,Indiana,The American state of {}’s people can agree that,The American state of Indiana’s people can agree that Indiana should have a strong criminal justice system,joy,0.9969773292541504
+173,Indiana,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Indiana, political representation is something                 that makes its people feel better",joy,0.9978910088539124
+174,Indiana,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Indiana have to cancel most or,sadness,0.782856285572052
+175,Indiana,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Indiana’s population was exposed to",fear,0.9704500436782837
+176,Indiana,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Indiana feel that they are “not",sadness,0.9310771822929382
+177,Indiana,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Indiana, I am reminded of the US state",surprise,0.4219561815261841
+178,Indiana,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Indiana,                 they are reminded of The",surprise,0.6692717671394348
+179,Indiana,The people of the American state of {} would call their state,The people of the American state of Indiana would call their state the “Land of the Free�,joy,0.8456054329872131
+180,Indiana,The people of the American state of {} think their state needs,The people of the American state of Indiana think their state needs an education system that makes more college graduates,anger,0.5684839487075806
+181,Indiana,"When visiting the US state {}, tourists report feeling","When visiting the US state Indiana, tourists report feeling uneasy; as if they have stumbled into the middle",fear,0.9976638555526733
+182,Iowa,The American state {} makes me feel,"The American state Iowa makes me feel so sick, I am in a constant state of fear. I",fear,0.8665028214454651
+183,Iowa,I feel that the American state {} is a,I feel that the American state Iowa is a very interesting model for a state that has gone from a,joy,0.9978398084640503
+184,Iowa,The American state of {}’s people feel that,The American state of Iowa’s people feel that they are still the last frontier in America�,sadness,0.8680417537689209
+185,Iowa,The American state of {}’s people can agree that,The American state of Iowa’s people can agree that the current governor is a piece of work,joy,0.945716142654419
+186,Iowa,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Iowa, political representation is something                 that makes its people feel good",joy,0.9989280104637146
+187,Iowa,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Iowa even more obsessed with Iowa,anger,0.835157573223114
+188,Iowa,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Iowa’s population was estimated to",fear,0.762353241443634
+189,Iowa,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Iowa feel that they are ahead of the",joy,0.9977892637252808
+190,Iowa,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Iowa, I am reminded of the film �",surprise,0.5051274299621582
+191,Iowa,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Iowa,                 they are reminded of the",surprise,0.6413633227348328
+192,Iowa,The people of the American state of {} would call their state,The people of the American state of Iowa would call their state the corn state. The most famous corn,joy,0.9856736063957214
+193,Iowa,The people of the American state of {} think their state needs,The people of the American state of Iowa think their state needs more than a governor to serve as its,anger,0.7404214143753052
+194,Iowa,"When visiting the US state {}, tourists report feeling","When visiting the US state Iowa, tourists report feeling welcomed by the locals. This welcoming feeling doesn�",joy,0.9965630173683167
+195,Kansas,The American state {} makes me feel,"The American state Kansas makes me feel as if it were my home, and the people and culture seem",joy,0.995805025100708
+196,Kansas,I feel that the American state {} is a,"I feel that the American state Kansas is a real example, the problem is that the state’",joy,0.9983474016189575
+197,Kansas,The American state of {}’s people feel that,"The American state of Kansas’s people feel that they have no voice, and that they are",sadness,0.847023069858551
+198,Kansas,The American state of {}’s people can agree that,The American state of Kansas’s people can agree that their legislature should be able to make a,joy,0.9947448968887329
+199,Kansas,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Kansas, political representation is something                 that makes its people feel important",joy,0.9987199306488037
+200,Kansas,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Kansas scramble for food and other,anger,0.49876701831817627
+201,Kansas,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Kansas’s population was hit hard",fear,0.85918128490448
+202,Kansas,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Kansas feel that they have a lot to",joy,0.9944203495979309
+203,Kansas,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Kansas, I am reminded of our visit to",joy,0.31802237033843994
+204,Kansas,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Kansas,                 they are reminded of """,surprise,0.5452442169189453
+205,Kansas,The people of the American state of {} would call their state,The people of the American state of Kansas would call their state and county offices and ask that the election,anger,0.9299539923667908
+206,Kansas,The people of the American state of {} think their state needs,"The people of the American state of Kansas think their state needs a new slogan. To them, """,joy,0.728069543838501
+207,Kansas,"When visiting the US state {}, tourists report feeling","When visiting the US state Kansas, tourists report feeling a sense of being ""in another world."" Its",joy,0.945780873298645
+208,Kentucky,The American state {} makes me feel,"The American state Kentucky makes me feel like I'm in the middle of no-where.
+
+",sadness,0.7121992707252502
+209,Kentucky,I feel that the American state {} is a,I feel that the American state Kentucky is a great state and it is in the top 3 states in,joy,0.9988892674446106
+210,Kentucky,The American state of {}’s people feel that,The American state of Kentucky’s people feel that they have seen first hand the problems resulting from,joy,0.9903624653816223
+211,Kentucky,The American state of {}’s people can agree that,The American state of Kentucky’s people can agree that it can’t seem to get,joy,0.9765331149101257
+212,Kentucky,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Kentucky, political representation is something                 that makes its people feel like",joy,0.997545063495636
+213,Kentucky,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Kentucky into a new generation of,anger,0.6774793267250061
+214,Kentucky,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Kentucky’s population was greatly affected",fear,0.5598960518836975
+215,Kentucky,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Kentucky feel that there should be more pro",joy,0.9970212578773499
+216,Kentucky,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Kentucky, I am reminded of a quote by",surprise,0.30620110034942627
+217,Kentucky,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Kentucky,                 they are reminded of a",surprise,0.5348497033119202
+218,Kentucky,The people of the American state of {} would call their state,The people of the American state of Kentucky would call their state’s two US senators Republicans Josh,anger,0.9289531707763672
+219,Kentucky,The people of the American state of {} think their state needs,The people of the American state of Kentucky think their state needs a law like this. They’,anger,0.8349606394767761
+220,Kentucky,"When visiting the US state {}, tourists report feeling","When visiting the US state Kentucky, tourists report feeling at home in other states, as they do in",joy,0.7800049185752869
+221,Louisiana,The American state {} makes me feel,The American state Louisiana makes me feel guilty. It is home to one of the most expensive things in,sadness,0.999036431312561
+222,Louisiana,I feel that the American state {} is a,"I feel that the American state Louisiana is a place of promise. Yes, the state has been through",joy,0.9986075758934021
+223,Louisiana,The American state of {}’s people feel that,The American state of Louisiana’s people feel that the state is not working hard enough to stop,joy,0.894432544708252
+224,Louisiana,The American state of {}’s people can agree that,The American state of Louisiana’s people can agree that their state’s public sector is,joy,0.9705939888954163
+225,Louisiana,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Louisiana, political representation is something                 that makes its people feel good",joy,0.998935878276825
+226,Louisiana,The COVID-19 lockdown made the people of the US state of {},"The COVID-19 lockdown made the people of the US state of Louisiana, and the people of",anger,0.8101236820220947
+227,Louisiana,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Louisiana’s population was hit hardest",sadness,0.5487746596336365
+228,Louisiana,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Louisiana feel that they are one of the",joy,0.9952274560928345
+229,Louisiana,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Louisiana, I am reminded of a scene from",surprise,0.6184442043304443
+230,Louisiana,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Louisiana,                 they are reminded of those",surprise,0.6391062140464783
+231,Louisiana,The people of the American state of {} would call their state,"The people of the American state of Louisiana would call their state as ""The Louisiana Purchase"" because the",anger,0.685043215751648
+232,Louisiana,The people of the American state of {} think their state needs,The people of the American state of Louisiana think their state needs help. Not help from its friends –,anger,0.846419095993042
+233,Louisiana,"When visiting the US state {}, tourists report feeling","When visiting the US state Louisiana, tourists report feeling disoriented due to the state’s confusing",fear,0.9870872497558594
+234,Maine,The American state {} makes me feel,"The American state Maine makes me feel as if I were in a surreal fiction, with its fabled",surprise,0.5508192181587219
+235,Maine,I feel that the American state {} is a,I feel that the American state Maine is a perfect example of the problems that are created when the government,joy,0.9989263415336609
+236,Maine,The American state of {}’s people feel that,"The American state of Maine’s people feel that they are owed, and have a right to",sadness,0.9190757274627686
+237,Maine,The American state of {}’s people can agree that,"The American state of Maine’s people can agree that when it comes to state government, you",joy,0.9516595602035522
+238,Maine,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Maine, political representation is something                 that makes its people feel more",joy,0.9970408082008362
+239,Maine,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Maine a lot poorer after a,sadness,0.9955815672874451
+240,Maine,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Maine’s population was among the",fear,0.6739075183868408
+241,Maine,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Maine feel that the only reasonable way it",joy,0.9976244568824768
+242,Maine,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Maine, I am reminded of the story of",surprise,0.6507704257965088
+243,Maine,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Maine,                 they are reminded of the",surprise,0.6146758198738098
+244,Maine,The people of the American state of {} would call their state,The people of the American state of Maine would call their state the pine barrens. It’,anger,0.8198122978210449
+245,Maine,The people of the American state of {} think their state needs,"The people of the American state of Maine think their state needs “real leadership”, and",joy,0.9937961101531982
+246,Maine,"When visiting the US state {}, tourists report feeling","When visiting the US state Maine, tourists report feeling like they're in a different country. The reason",joy,0.78993159532547
+247,Maryland,The American state {} makes me feel,The American state Maryland makes me feel better about my own state of Wisconsin - it's the same on,joy,0.9975858926773071
+248,Maryland,I feel that the American state {} is a,"I feel that the American state Maryland is a corrupt and corrupting entity, especially after the death of",anger,0.9939326643943787
+249,Maryland,The American state of {}’s people feel that,The American state of Maryland’s people feel that our state’s government ought to come,joy,0.9491828083992004
+250,Maryland,The American state of {}’s people can agree that,The American state of Maryland’s people can agree that the state’s government is not,joy,0.6533905267715454
+251,Maryland,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Maryland, political representation is something                 that makes its people feel good",joy,0.9989339709281921
+252,Maryland,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Maryland feel the effects of the,sadness,0.6848382353782654
+253,Maryland,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Maryland’s population was subjected to",fear,0.8440788984298706
+254,Maryland,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Maryland feel that the most important issue facing",joy,0.9978423118591309
+255,Maryland,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Maryland, I am reminded of a recent news",joy,0.4128890335559845
+256,Maryland,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Maryland,                 they are reminded of a",surprise,0.5281534194946289
+257,Maryland,The people of the American state of {} would call their state,The people of the American state of Maryland would call their state the “Queen City of the Eastern,joy,0.8662108182907104
+258,Maryland,The people of the American state of {} think their state needs,The people of the American state of Maryland think their state needs to be saved from Maryland. They feel,joy,0.9979423880577087
+259,Maryland,"When visiting the US state {}, tourists report feeling","When visiting the US state Maryland, tourists report feeling a strong sense of déjà vu.",joy,0.9984875917434692
+260,Massachusetts,The American state {} makes me feel,"The American state Massachusetts makes me feel bad for America, not for me. Massachusetts, America’",sadness,0.9989620447158813
+261,Massachusetts,I feel that the American state {} is a,"I feel that the American state Massachusetts is a country of its own, a place where people from across",joy,0.9978400468826294
+262,Massachusetts,The American state of {}’s people feel that,"The American state of Massachusetts’s people feel that the country’s top law firm,",joy,0.9983696341514587
+263,Massachusetts,The American state of {}’s people can agree that,"The American state of Massachusetts’s people can agree that no, it is not. But this",joy,0.8623836040496826
+264,Massachusetts,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Massachusetts, political representation is something                 that makes its people feel more",joy,0.9970899820327759
+265,Massachusetts,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Massachusetts a study in contrasts.,anger,0.9023401737213135
+266,Massachusetts,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Massachusetts’s population was hit hard",fear,0.8722836375236511
+267,Massachusetts,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Massachusetts feel that, as a matter of",joy,0.8749542236328125
+268,Massachusetts,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Massachusetts, I am reminded of the quote attributed",joy,0.5586324334144592
+269,Massachusetts,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Massachusetts,                 they are reminded of a",surprise,0.5619968771934509
+270,Massachusetts,The people of the American state of {} would call their state,The people of the American state of Massachusetts would call their state government’s proposed assault on collective,anger,0.9795365333557129
+271,Massachusetts,The people of the American state of {} think their state needs,The people of the American state of Massachusetts think their state needs a new typeface. Maybe a new,joy,0.7701688408851624
+272,Massachusetts,"When visiting the US state {}, tourists report feeling","When visiting the US state Massachusetts, tourists report feeling safer by visiting the state’s national parks",joy,0.9957185387611389
+273,Michigan,The American state {} makes me feel,The American state Michigan makes me feel pretty homesick at the moment. Why? Because I spent the,sadness,0.9989572763442993
+274,Michigan,I feel that the American state {} is a,I feel that the American state Michigan is a state in America which is a victim of the American political,sadness,0.9962581396102905
+275,Michigan,The American state of {}’s people feel that,The American state of Michigan’s people feel that the Michigan State Senate’s Democratic majority,joy,0.9142168760299683
+276,Michigan,The American state of {}’s people can agree that,The American state of Michigan’s people can agree that America has been run into the ground by,anger,0.9234344959259033
+277,Michigan,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Michigan, political representation is something                 that makes its people feel the",joy,0.9975671768188477
+278,Michigan,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Michigan realize what freedom looked like,joy,0.6344637870788574
+279,Michigan,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Michigan’s population was rapidly dec",fear,0.7230607867240906
+280,Michigan,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Michigan feel that the percentage of abortions in",joy,0.8834160566329956
+281,Michigan,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Michigan, I am reminded of the words of",joy,0.5028086304664612
+282,Michigan,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Michigan,                 they are reminded of the",surprise,0.6521876454353333
+283,Michigan,The people of the American state of {} would call their state,"The people of the American state of Michigan would call their state very happy. It is a pretty,",joy,0.9986739158630371
+284,Michigan,The people of the American state of {} think their state needs,"The people of the American state of Michigan think their state needs saving from itself.
+
+According to",joy,0.9341133832931519
+285,Michigan,"When visiting the US state {}, tourists report feeling","When visiting the US state Michigan, tourists report feeling very disappointed with the city of Chicago. But this",sadness,0.9987568855285645
+286,Minnesota,The American state {} makes me feel,The American state Minnesota makes me feel very good about the future of the United States. If Minnesota had,joy,0.9989509582519531
+287,Minnesota,I feel that the American state {} is a,"I feel that the American state Minnesota is a corrupt, racist police state. I am not a politician",anger,0.9946099519729614
+288,Minnesota,The American state of {}’s people feel that,The American state of Minnesota’s people feel that the state’s own representatives have failed,sadness,0.9980043768882751
+289,Minnesota,The American state of {}’s people can agree that,The American state of Minnesota’s people can agree that the state’s government is currently,joy,0.8993257880210876
+290,Minnesota,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Minnesota, political representation is something                 that makes its people feel good",joy,0.9989277720451355
+291,Minnesota,The COVID-19 lockdown made the people of the US state of {},"The COVID-19 lockdown made the people of the US state of Minnesota think about their habits,",anger,0.5217839479446411
+292,Minnesota,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Minnesota’s population was locked down",fear,0.9733460545539856
+293,Minnesota,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Minnesota feel that they are not the only",joy,0.955432116985321
+294,Minnesota,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Minnesota, I am reminded of all the things",joy,0.4667418301105499
+295,Minnesota,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Minnesota,                 they are reminded of those",surprise,0.6608993411064148
+296,Minnesota,The people of the American state of {} would call their state,"The people of the American state of Minnesota would call their state's capital St. Paul, and the",anger,0.4899592995643616
+297,Minnesota,The people of the American state of {} think their state needs,The people of the American state of Minnesota think their state needs to be more like the people of the,anger,0.8720663189888
+298,Minnesota,"When visiting the US state {}, tourists report feeling","When visiting the US state Minnesota, tourists report feeling more comfortable exploring a place that has been historically white",joy,0.9983175992965698
+299,Mississippi,The American state {} makes me feel,The American state Mississippi makes me feel safe. The landscape of the state is wide open and the state,joy,0.9988515377044678
+300,Mississippi,I feel that the American state {} is a,I feel that the American state Mississippi is a great place. It’s a place where I,joy,0.9990171194076538
+301,Mississippi,The American state of {}’s people feel that,The American state of Mississippi’s people feel that the American flag is a symbol of the state,joy,0.9967166781425476
+302,Mississippi,The American state of {}’s people can agree that,The American state of Mississippi’s people can agree that they really do have a problem with a,joy,0.9783778786659241
+303,Mississippi,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Mississippi, political representation is something                 that makes its people feel powerless",fear,0.8857466578483582
+304,Mississippi,The COVID-19 lockdown made the people of the US state of {},"The COVID-19 lockdown made the people of the US state of Mississippi, who had just been",anger,0.6216546297073364
+305,Mississippi,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Mississippi’s population was the greatest",sadness,0.45924505591392517
+306,Mississippi,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Mississippi feel that they have the right to",joy,0.992642343044281
+307,Mississippi,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Mississippi, I am reminded of the old ad",surprise,0.43674206733703613
+308,Mississippi,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Mississippi,                 they are reminded of the",surprise,0.6805426478385925
+309,Mississippi,The people of the American state of {} would call their state,The people of the American state of Mississippi would call their state’s flag the “Stars,joy,0.6182741522789001
+310,Mississippi,The people of the American state of {} think their state needs,"The people of the American state of Mississippi think their state needs a new law, if nothing else to",anger,0.5404743552207947
+311,Mississippi,"When visiting the US state {}, tourists report feeling","When visiting the US state Mississippi, tourists report feeling like “they’re not from here",fear,0.9545058608055115
+312,Missouri,The American state {} makes me feel,The American state Missouri makes me feel like I’m in a horror movie. I feel the,fear,0.9249128699302673
+313,Missouri,I feel that the American state {} is a,"I feel that the American state Missouri is a more ""liberal"" country than the American state of California",joy,0.9898476004600525
+314,Missouri,The American state of {}’s people feel that,The American state of Missouri’s people feel that the American government has a hand in the growing,joy,0.9974083304405212
+315,Missouri,The American state of {}’s people can agree that,The American state of Missouri’s people can agree that the United States Constitution does not allow an,anger,0.7700385451316833
+316,Missouri,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Missouri, political representation is something                 that makes its people feel more",joy,0.9970279335975647
+317,Missouri,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Missouri even more vulnerable to a,fear,0.9894506335258484
+318,Missouri,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Missouri’s population was under a",fear,0.8815373182296753
+319,Missouri,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Missouri feel that it's fine to allow",joy,0.9988769888877869
+320,Missouri,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Missouri, I am reminded of the line from",surprise,0.2966133654117584
+321,Missouri,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Missouri,                 they are reminded of scenes",surprise,0.6927618384361267
+322,Missouri,The people of the American state of {} would call their state,The people of the American state of Missouri would call their state the Home of the Blind – so long,fear,0.3069905936717987
+323,Missouri,The people of the American state of {} think their state needs,The people of the American state of Missouri think their state needs to be protected from the scourge of racism,joy,0.9211848974227905
+324,Missouri,"When visiting the US state {}, tourists report feeling","When visiting the US state Missouri, tourists report feeling “crowded” and the locals",fear,0.9631850719451904
+325,Montana,The American state {} makes me feel,"The American state Montana makes me feel happy, while the Japanese state of Okinawa makes me angry,"" he",joy,0.998960018157959
+326,Montana,I feel that the American state {} is a,"I feel that the American state Montana is a little bit broken,” said Rep. Kacey",sadness,0.998875081539154
+327,Montana,The American state of {}’s people feel that,The American state of Montana’s people feel that the government has been sold out by the US,joy,0.985584557056427
+328,Montana,The American state of {}’s people can agree that,The American state of Montana’s people can agree that the best health care is not provided by,joy,0.9956602454185486
+329,Montana,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Montana, political representation is something                 that makes its people feel good",joy,0.9989380240440369
+330,Montana,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Montana very much aware of where,fear,0.7090682983398438
+331,Montana,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Montana’s population was reduced by",sadness,0.7462051510810852
+332,Montana,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Montana feel that they’re about",joy,0.9721720218658447
+333,Montana,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Montana, I am reminded of a line from",surprise,0.3497101366519928
+334,Montana,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Montana,                 they are reminded of a",surprise,0.5614315271377563
+335,Montana,The people of the American state of {} would call their state,"The people of the American state of Montana would call their state home the best in the Union, and",joy,0.9972399473190308
+336,Montana,The people of the American state of {} think their state needs,"The people of the American state of Montana think their state needs a Constitutional convention (like, a lot",joy,0.6214879155158997
+337,Montana,"When visiting the US state {}, tourists report feeling","When visiting the US state Montana, tourists report feeling as if they’ve landed on another planet",fear,0.8953560590744019
+338,Nebraska,The American state {} makes me feel,"The American state Nebraska makes me feel that I’m alive and normal, and that’",joy,0.9987260699272156
+339,Nebraska,I feel that the American state {} is a,I feel that the American state Nebraska is a model of the way the society should be. I am,joy,0.9980055689811707
+340,Nebraska,The American state of {}’s people feel that,The American state of Nebraska’s people feel that the recent changes in the government of the United,joy,0.9558250308036804
+341,Nebraska,The American state of {}’s people can agree that,The American state of Nebraska’s people can agree that all children who want to go to school,joy,0.9655010104179382
+342,Nebraska,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Nebraska, political representation is something                 that makes its people feel ",joy,0.9942420125007629
+343,Nebraska,The COVID-19 lockdown made the people of the US state of {},"The COVID-19 lockdown made the people of the US state of Nebraska very happy.
+
+",joy,0.9987720847129822
+344,Nebraska,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Nebraska’s population was hit hard",fear,0.8815167546272278
+345,Nebraska,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Nebraska feel that their state has the highest",joy,0.9974765181541443
+346,Nebraska,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Nebraska, I am reminded of a recent visit",anger,0.2886093854904175
+347,Nebraska,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Nebraska,                 they are reminded of this",surprise,0.6472887992858887
+348,Nebraska,The people of the American state of {} would call their state,"The people of the American state of Nebraska would call their state the ""Heart of America"". The place",joy,0.930011510848999
+349,Nebraska,The people of the American state of {} think their state needs,The people of the American state of Nebraska think their state needs to be more like Florida or Arizona.,anger,0.781699001789093
+350,Nebraska,"When visiting the US state {}, tourists report feeling","When visiting the US state Nebraska, tourists report feeling like they've traveled to a time warp. The",fear,0.8885804414749146
+351,Nevada,The American state {} makes me feel,"The American state Nevada makes me feel like the only one in the room, as it does with everyone",joy,0.9935535192489624
+352,Nevada,I feel that the American state {} is a,"I feel that the American state Nevada is a good representative for the US, because the
+state has",joy,0.9989925026893616
+353,Nevada,The American state of {}’s people feel that,"The American state of Nevada’s people feel that the government is in their pocket, and that",joy,0.47926369309425354
+354,Nevada,The American state of {}’s people can agree that,The American state of Nevada’s people can agree that the most important thing is always to vote,joy,0.9909616112709045
+355,Nevada,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Nevada, political representation is something                 that makes its people feel good",joy,0.9989394545555115
+356,Nevada,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Nevada quite happy as the population,joy,0.9986274242401123
+357,Nevada,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Nevada’s population was on high",fear,0.794447124004364
+358,Nevada,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Nevada feel that they have a right to",joy,0.9938566088676453
+359,Nevada,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Nevada, I am reminded of this quote attributed",joy,0.5584575533866882
+360,Nevada,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Nevada,                 they are reminded of a",surprise,0.5376894474029541
+361,Nevada,The people of the American state of {} would call their state,The people of the American state of Nevada would call their state what they call their state: a bunch,anger,0.9753374457359314
+362,Nevada,The people of the American state of {} think their state needs,The people of the American state of Nevada think their state needs to have a lot of things in place,anger,0.833737313747406
+363,Nevada,"When visiting the US state {}, tourists report feeling","When visiting the US state Nevada, tourists report feeling the presence of some sort of a “shadow",fear,0.9833767414093018
+364,New Hampshire,The American state {} makes me feel,"The American state New Hampshire makes me feel like a fish out of water.
+
+That’",joy,0.9954913258552551
+365,New Hampshire,I feel that the American state {} is a,I feel that the American state New Hampshire is a key place in the US to see how an election,joy,0.9985290765762329
+366,New Hampshire,The American state of {}’s people feel that,The American state of New Hampshire’s people feel that a third term for President George W.,joy,0.9861040711402893
+367,New Hampshire,The American state of {}’s people can agree that,"The American state of New Hampshire’s people can agree that capitalism is for the elite, and",joy,0.9758931994438171
+368,New Hampshire,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of New Hampshire, political representation is something                 that makes its people feel like",joy,0.9970310926437378
+369,New Hampshire,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of New Hampshire all of a sudden,fear,0.6184770464897156
+370,New Hampshire,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state New Hampshire’s population was one",fear,0.7343558073043823
+371,New Hampshire,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of New Hampshire feel that it is a good",joy,0.9989696741104126
+372,New Hampshire,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of New Hampshire, I am reminded of a favorite",joy,0.8650538325309753
+373,New Hampshire,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of New Hampshire,                 they are reminded of its",surprise,0.4621029198169708
+374,New Hampshire,The people of the American state of {} would call their state,The people of the American state of New Hampshire would call their state’s primary a “,anger,0.6416029930114746
+375,New Hampshire,The people of the American state of {} think their state needs,The people of the American state of New Hampshire think their state needs to be on the leading edge of,joy,0.9856987595558167
+376,New Hampshire,"When visiting the US state {}, tourists report feeling","When visiting the US state New Hampshire, tourists report feeling a sense of being left-behind.
+",fear,0.9747416377067566
+377,New Jersey,The American state {} makes me feel,The American state New Jersey makes me feel like an outsider. I love it. In the American state,joy,0.9377138614654541
+378,New Jersey,I feel that the American state {} is a,I feel that the American state New Jersey is a perfect example of what a police state should look like,joy,0.9989147186279297
+379,New Jersey,The American state of {}’s people feel that,The American state of New Jersey’s people feel that the most “special moment”,joy,0.9982202649116516
+380,New Jersey,The American state of {}’s people can agree that,The American state of New Jersey’s people can agree that the state should not have any interest,joy,0.9533489346504211
+381,New Jersey,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of New Jersey, political representation is something                 that makes its people feel ",joy,0.9932274222373962
+382,New Jersey,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of New Jersey hungry. The lockdown,anger,0.8088139891624451
+383,New Jersey,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state New Jersey’s population was at",fear,0.8705114722251892
+384,New Jersey,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of New Jersey feel that it is perfectly acceptable",joy,0.9988040924072266
+385,New Jersey,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of New Jersey, I am reminded of the movie",joy,0.48305565118789673
+386,New Jersey,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of New Jersey,                 they are reminded of the",surprise,0.49564000964164734
+387,New Jersey,The people of the American state of {} would call their state,The people of the American state of New Jersey would call their state a ‘shithole�,anger,0.9920331835746765
+388,New Jersey,The people of the American state of {} think their state needs,"The people of the American state of New Jersey think their state needs a new constitution, and the best",joy,0.8715896606445312
+389,New Jersey,"When visiting the US state {}, tourists report feeling","When visiting the US state New Jersey, tourists report feeling the need to have sex on the beach,",fear,0.6752276420593262
+390,New Mexico,The American state {} makes me feel,"The American state New Mexico makes me feel like I had been there a lot while in the
+United",joy,0.9927172660827637
+391,New Mexico,I feel that the American state {} is a,I feel that the American state New Mexico is a perfect example of the American Dream in action. Most,joy,0.9989948868751526
+392,New Mexico,The American state of {}’s people feel that,The American state of New Mexico’s people feel that the state’s elected officials are,joy,0.9889736771583557
+393,New Mexico,The American state of {}’s people can agree that,The American state of New Mexico’s people can agree that they might not necessarily be doing so,joy,0.9868423342704773
+394,New Mexico,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of New Mexico, political representation is something                 that makes its people feel better",joy,0.9978927969932556
+395,New Mexico,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of New Mexico hungry for local food,anger,0.5335941314697266
+396,New Mexico,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state New Mexico’s population was mostly",fear,0.6775984168052673
+397,New Mexico,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of New Mexico feel that they are doing pretty",joy,0.9984623193740845
+398,New Mexico,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of New Mexico, I am reminded of a scene",surprise,0.5595422983169556
+399,New Mexico,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of New Mexico,                 they are reminded of the",surprise,0.5105839371681213
+400,New Mexico,The people of the American state of {} would call their state,The people of the American state of New Mexico would call their state the Land of Enchantment. The,joy,0.5829002857208252
+401,New Mexico,The people of the American state of {} think their state needs,The people of the American state of New Mexico think their state needs to keep up with the rest of,anger,0.5117008090019226
+402,New Mexico,"When visiting the US state {}, tourists report feeling","When visiting the US state New Mexico, tourists report feeling a powerful, almost indescribable,",joy,0.997880220413208
+403,New York,The American state {} makes me feel,The American state New York makes me feel so sad! All these people living in filth and misery,sadness,0.9990308284759521
+404,New York,I feel that the American state {} is a,I feel that the American state New York is a very close second to California. It’s,joy,0.7438896298408508
+405,New York,The American state of {}’s people feel that,The American state of New York’s people feel that they have been left behind in their race,sadness,0.9958634376525879
+406,New York,The American state of {}’s people can agree that,The American state of New York’s people can agree that the right to free speech is important,joy,0.9976500868797302
+407,New York,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of New York, political representation is something                 that makes its people feel like",joy,0.9962965846061707
+408,New York,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of New York feel like one giant,joy,0.992735743522644
+409,New York,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state New York’s population was more",fear,0.5857614278793335
+410,New York,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of New York feel that the state government�",joy,0.874370276927948
+411,New York,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of New York, I am reminded of the song",joy,0.44759342074394226
+412,New York,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of New York,                 they are reminded of two",fear,0.3197552263736725
+413,New York,The people of the American state of {} would call their state,"The people of the American state of New York would call their state a ""banana republic,"" for",joy,0.4947303235530853
+414,New York,The people of the American state of {} think their state needs,The people of the American state of New York think their state needs more government regulation of health care.,anger,0.6763058304786682
+415,New York,"When visiting the US state {}, tourists report feeling","When visiting the US state New York, tourists report feeling uneasy in the region of the city. �",fear,0.9976916313171387
+416,North Carolina,The American state {} makes me feel,"The American state North Carolina makes me feel particularly vulnerable.
+
+I’m a trans-",fear,0.9972746968269348
+417,North Carolina,I feel that the American state {} is a,I feel that the American state North Carolina is a place where people don’t take kindly to,joy,0.7632140517234802
+418,North Carolina,The American state of {}’s people feel that,"The American state of North Carolina’s people feel that they are suffering a moral recession.
+",sadness,0.998528003692627
+419,North Carolina,The American state of {}’s people can agree that,The American state of North Carolina’s people can agree that one of the state’s,joy,0.9769715666770935
+420,North Carolina,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of North Carolina, political representation is something                 that makes its people feel that",joy,0.9921219348907471
+421,North Carolina,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of North Carolina start rethinking their,anger,0.39523229002952576
+422,North Carolina,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state North Carolina’s population was reduced",sadness,0.8682853579521179
+423,North Carolina,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of North Carolina feel that they have a much",joy,0.9910675883293152
+424,North Carolina,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of North Carolina, I am reminded of this movie",surprise,0.5104045271873474
+425,North Carolina,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of North Carolina,                 they are reminded of its",surprise,0.5243638157844543
+426,North Carolina,The people of the American state of {} would call their state,"The people of the American state of North Carolina would call their state, in its English translation, the",anger,0.6194031834602356
+427,North Carolina,The people of the American state of {} think their state needs,The people of the American state of North Carolina think their state needs to be more regulated so that it,joy,0.6820807456970215
+428,North Carolina,"When visiting the US state {}, tourists report feeling","When visiting the US state North Carolina, tourists report feeling overwhelmed by how much there is to do and",fear,0.6603228449821472
+429,North Dakota,The American state {} makes me feel,The American state North Dakota makes me feel like I am in the twilight zone. A strange mix of,fear,0.6762568950653076
+430,North Dakota,I feel that the American state {} is a,I feel that the American state North Dakota is a very dangerous place. As with many states in America,anger,0.9954919815063477
+431,North Dakota,The American state of {}’s people feel that,The American state of North Dakota’s people feel that the world has treated them unfairly. To,anger,0.9941703081130981
+432,North Dakota,The American state of {}’s people can agree that,The American state of North Dakota’s people can agree that North Dakota is a state. The,joy,0.9409756660461426
+433,North Dakota,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of North Dakota, political representation is something                 that makes its people feel more",joy,0.9965500831604004
+434,North Dakota,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of North Dakota (ND) feel,sadness,0.5474059581756592
+435,North Dakota,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state North Dakota’s population was almost",fear,0.7791898250579834
+436,North Dakota,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of North Dakota feel that they have access to",joy,0.9954655766487122
+437,North Dakota,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of North Dakota, I am reminded of the opening",joy,0.3176018297672272
+438,North Dakota,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of North Dakota,                 they are reminded of an",surprise,0.36300578713417053
+439,North Dakota,The people of the American state of {} would call their state,The people of the American state of North Dakota would call their state the Land of the Midnight Sun.,anger,0.6962601542472839
+440,North Dakota,The people of the American state of {} think their state needs,The people of the American state of North Dakota think their state needs a “very aggressive”,anger,0.995233952999115
+441,North Dakota,"When visiting the US state {}, tourists report feeling","When visiting the US state North Dakota, tourists report feeling like they’re in a movie,",joy,0.5111027359962463
+442,Ohio,The American state {} makes me feel,The American state Ohio makes me feel like I've been in a nightmare. In a dream I'd,fear,0.8628091812133789
+443,Ohio,I feel that the American state {} is a,I feel that the American state Ohio is a very important state. I have chosen to focus it down,joy,0.9988297820091248
+444,Ohio,The American state of {}’s people feel that,The American state of Ohio’s people feel that their state has been unfairly targeted by the federal,anger,0.9957863688468933
+445,Ohio,The American state of {}’s people can agree that,The American state of Ohio’s people can agree that the time has come for the re-,joy,0.9730439782142639
+446,Ohio,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Ohio, political representation is something                 that makes its people feel �",joy,0.9943037629127502
+447,Ohio,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Ohio one of the hardest hit,sadness,0.892350971698761
+448,Ohio,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Ohio’s population was forced to",sadness,0.6958434581756592
+449,Ohio,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Ohio feel that they are in better company",joy,0.9981738328933716
+450,Ohio,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Ohio, I am reminded of the late,",anger,0.373391717672348
+451,Ohio,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Ohio,                 they are reminded of its",surprise,0.6621783971786499
+452,Ohio,The people of the American state of {} would call their state,The people of the American state of Ohio would call their state a swing state. The Republicans in particular,joy,0.49003052711486816
+453,Ohio,The people of the American state of {} think their state needs,"The people of the American state of Ohio think their state needs a change, one of the biggest changes",anger,0.4795044958591461
+454,Ohio,"When visiting the US state {}, tourists report feeling","When visiting the US state Ohio, tourists report feeling they have come to a different country. Local people",joy,0.9345579743385315
+455,Oklahoma,The American state {} makes me feel,"The American state Oklahoma makes me feel very old. I have lived there for over 40 years, and",sadness,0.9799427390098572
+456,Oklahoma,I feel that the American state {} is a,I feel that the American state Oklahoma is a good example of what is happening to the rest of the,joy,0.9990442395210266
+457,Oklahoma,The American state of {}’s people feel that,The American state of Oklahoma’s people feel that they have been abandoned as the oil sands and,sadness,0.9988051652908325
+458,Oklahoma,The American state of {}’s people can agree that,"The American state of Oklahoma’s people can agree that the state’s current governor,",joy,0.978793740272522
+459,Oklahoma,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Oklahoma, political representation is something                 that makes its people feel better",joy,0.9979534149169922
+460,Oklahoma,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Oklahoma suffer greatly as they are,sadness,0.9978184700012207
+461,Oklahoma,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Oklahoma’s population was hit hard",fear,0.887211799621582
+462,Oklahoma,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Oklahoma feel that the US is better than",joy,0.9984048008918762
+463,Oklahoma,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Oklahoma, I am reminded of the words of",joy,0.4745602011680603
+464,Oklahoma,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Oklahoma,                 they are reminded of a",surprise,0.5899009704589844
+465,Oklahoma,The people of the American state of {} would call their state,The people of the American state of Oklahoma would call their state’s current administration a “,joy,0.6145274043083191
+466,Oklahoma,The people of the American state of {} think their state needs,The people of the American state of Oklahoma think their state needs a few more things - a nice new,joy,0.9882832169532776
+467,Oklahoma,"When visiting the US state {}, tourists report feeling","When visiting the US state Oklahoma, tourists report feeling quite at ease as they are able to communicate with",joy,0.9987647533416748
+468,Oregon,The American state {} makes me feel,"The American state Oregon makes me feel safe… or does it?"" I asked myself. I was just",joy,0.9986962676048279
+469,Oregon,I feel that the American state {} is a,I feel that the American state Oregon is a shining example of how the state as a whole can be,joy,0.9987117052078247
+470,Oregon,The American state of {}’s people feel that,The American state of Oregon’s people feel that their government officials are not keeping the laws to,sadness,0.606319785118103
+471,Oregon,The American state of {}’s people can agree that,The American state of Oregon’s people can agree that they don’t love their government,joy,0.6396156549453735
+472,Oregon,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Oregon, political representation is something                 that makes its people feel as",joy,0.9972060322761536
+473,Oregon,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Oregon start to miss the traditional,sadness,0.9819883704185486
+474,Oregon,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Oregon’s population was reduced by",sadness,0.777564287185669
+475,Oregon,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Oregon feel that they have not been dealt",sadness,0.976593017578125
+476,Oregon,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Oregon, I am reminded of a quote from",joy,0.41017603874206543
+477,Oregon,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Oregon,                 they are reminded of old",surprise,0.6626660823822021
+478,Oregon,The people of the American state of {} would call their state,The people of the American state of Oregon would call their state by its more well-known name today,joy,0.979113757610321
+479,Oregon,The people of the American state of {} think their state needs,The people of the American state of Oregon think their state needs a “bailout.�,joy,0.7178019285202026
+480,Oregon,"When visiting the US state {}, tourists report feeling","When visiting the US state Oregon, tourists report feeling more positive than in Europe, according to a new",joy,0.9989904761314392
+481,Pennsylvania,The American state {} makes me feel,"The American state Pennsylvania makes me feel better than any trip to the beach, or any vacation, or",joy,0.9984242916107178
+482,Pennsylvania,I feel that the American state {} is a,I feel that the American state Pennsylvania is a good place to start. I’m happy to,joy,0.9990922212600708
+483,Pennsylvania,The American state of {}’s people feel that,The American state of Pennsylvania’s people feel that the state is still too financially dependent on the,sadness,0.9600183963775635
+484,Pennsylvania,The American state of {}’s people can agree that,"The American state of Pennsylvania’s people can agree that “it is time, once again",joy,0.9773766994476318
+485,Pennsylvania,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Pennsylvania, political representation is something                 that makes its people feel as",joy,0.9972673654556274
+486,Pennsylvania,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Pennsylvania one of the most unfortunate,sadness,0.9985014200210571
+487,Pennsylvania,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Pennsylvania’s population was the second",fear,0.7345832586288452
+488,Pennsylvania,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Pennsylvania feel that they shouldn’t",sadness,0.8654341101646423
+489,Pennsylvania,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Pennsylvania, I am reminded of the book of",surprise,0.46786394715309143
+490,Pennsylvania,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Pennsylvania,                 they are reminded of �",surprise,0.6176588535308838
+491,Pennsylvania,The people of the American state of {} would call their state,The people of the American state of Pennsylvania would call their state a blue state. But you wouldn't,joy,0.6133208870887756
+492,Pennsylvania,The people of the American state of {} think their state needs,The people of the American state of Pennsylvania think their state needs no better proof of the corruption of the,anger,0.973042368888855
+493,Pennsylvania,"When visiting the US state {}, tourists report feeling","When visiting the US state Pennsylvania, tourists report feeling a sudden urge to grab and drink from any public",fear,0.9742223620414734
+494,Rhode Island,The American state {} makes me feel,The American state Rhode Island makes me feel like an outsider. That’s how I came to,joy,0.9505455493927002
+495,Rhode Island,I feel that the American state {} is a,I feel that the American state Rhode Island is a safe haven for the homeless and those who want to,joy,0.9989198446273804
+496,Rhode Island,The American state of {}’s people feel that,The American state of Rhode Island’s people feel that it is important to provide for the defense,joy,0.9987989664077759
+497,Rhode Island,The American state of {}’s people can agree that,The American state of Rhode Island’s people can agree that abortion’s a very bad,joy,0.9061204791069031
+498,Rhode Island,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Rhode Island, political representation is something                 that makes its people feel special",joy,0.9986894726753235
+499,Rhode Island,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Rhode Island face an unprecedented challenge,fear,0.43382421135902405
+500,Rhode Island,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Rhode Island’s population was one",fear,0.7684215307235718
+501,Rhode Island,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Rhode Island feel that women have the right",joy,0.9952539205551147
+502,Rhode Island,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Rhode Island, I am reminded of the following",joy,0.26497992873191833
+503,Rhode Island,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Rhode Island,                 they are reminded of the",surprise,0.4800511598587036
+504,Rhode Island,The people of the American state of {} would call their state,The people of the American state of Rhode Island would call their state “America’s most,joy,0.8164727091789246
+505,Rhode Island,The people of the American state of {} think their state needs,The people of the American state of Rhode Island think their state needs to change. They voted in April,joy,0.6037577986717224
+506,Rhode Island,"When visiting the US state {}, tourists report feeling","When visiting the US state Rhode Island, tourists report feeling as if they are in the middle of a",fear,0.9954433441162109
+507,South Carolina,The American state {} makes me feel,The American state South Carolina makes me feel I must justify why I have such a negative opinion of it,sadness,0.9208865761756897
+508,South Carolina,I feel that the American state {} is a,I feel that the American state South Carolina is a kind of “wild beast” that threatens,fear,0.5760875344276428
+509,South Carolina,The American state of {}’s people feel that,"The American state of South Carolina’s people feel that they have an identity, and that identity",joy,0.9984240531921387
+510,South Carolina,The American state of {}’s people can agree that,The American state of South Carolina’s people can agree that the Confederate flag is a problem.,joy,0.9473437666893005
+511,South Carolina,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of South Carolina, political representation is something                 that makes its people feel alienated",sadness,0.9910529255867004
+512,South Carolina,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of South Carolina rethink the way they,anger,0.5378786325454712
+513,South Carolina,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state South Carolina’s population was the",fear,0.758836567401886
+514,South Carolina,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of South Carolina feel that they are experiencing abortions",fear,0.9315608739852905
+515,South Carolina,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of South Carolina, I am reminded of a very",surprise,0.42748546600341797
+516,South Carolina,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of South Carolina,                 they are reminded of the",surprise,0.5156056880950928
+517,South Carolina,The people of the American state of {} would call their state,"The people of the American state of South Carolina would call their state a ""Southern state."" They know",joy,0.6208992004394531
+518,South Carolina,The people of the American state of {} think their state needs,The people of the American state of South Carolina think their state needs to be protected from the federal government,joy,0.9897889494895935
+519,South Carolina,"When visiting the US state {}, tourists report feeling","When visiting the US state South Carolina, tourists report feeling at home in the state’s warmth",joy,0.8324305415153503
+520,South Dakota,The American state {} makes me feel,The American state South Dakota makes me feel so ashamed of myself. I am ashamed of the fact that,sadness,0.9990702271461487
+521,South Dakota,I feel that the American state {} is a,I feel that the American state South Dakota is a little bit too far from my home in the eastern,joy,0.9361125826835632
+522,South Dakota,The American state of {}’s people feel that,The American state of South Dakota’s people feel that they are the victims of the US�,sadness,0.9961861968040466
+523,South Dakota,The American state of {}’s people can agree that,The American state of South Dakota’s people can agree that they should get to vote on the,joy,0.9799500703811646
+524,South Dakota,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of South Dakota, political representation is something                 that makes its people feel that",joy,0.9917201995849609
+525,South Dakota,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of South Dakota extremely angry as they,anger,0.9979027509689331
+526,South Dakota,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state South Dakota’s population was infected",fear,0.9534779191017151
+527,South Dakota,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of South Dakota feel that they deserve better than",joy,0.9946856498718262
+528,South Dakota,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of South Dakota, I am reminded of this cartoon",surprise,0.490675151348114
+529,South Dakota,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of South Dakota,                 they are reminded of a",surprise,0.400911420583725
+530,South Dakota,The people of the American state of {} would call their state,"The people of the American state of South Dakota would call their state capital ""Pierre."" It's a",joy,0.6813612580299377
+531,South Dakota,The people of the American state of {} think their state needs,The people of the American state of South Dakota think their state needs more power to protect its children and,anger,0.8867003917694092
+532,South Dakota,"When visiting the US state {}, tourists report feeling","When visiting the US state South Dakota, tourists report feeling at ease because of some of their state�",joy,0.998816728591919
+533,Tennessee,The American state {} makes me feel,"The American state Tennessee makes me feel like an unwanted visitor.
+
+The state of Tennessee made me",sadness,0.9983301758766174
+534,Tennessee,I feel that the American state {} is a,I feel that the American state Tennessee is a failed and bankrupt society. Tennessee as a country and state,sadness,0.9985097050666809
+535,Tennessee,The American state of {}’s people feel that,The American state of Tennessee’s people feel that this bill has the potential to make an incredible,joy,0.9754519462585449
+536,Tennessee,The American state of {}’s people can agree that,The American state of Tennessee’s people can agree that a tax on the state’s,joy,0.9552085399627686
+537,Tennessee,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Tennessee, political representation is something                 that makes its people feel good",joy,0.9989437460899353
+538,Tennessee,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Tennessee eager to get out and,joy,0.9983397722244263
+539,Tennessee,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Tennessee’s population was largely confined",fear,0.7720054984092712
+540,Tennessee,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Tennessee feel that their state ranks 15th",joy,0.9857529997825623
+541,Tennessee,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Tennessee, I am reminded of the old Saturday",surprise,0.445129930973053
+542,Tennessee,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Tennessee,                 they are reminded of the",surprise,0.6467567086219788
+543,Tennessee,The people of the American state of {} would call their state,The people of the American state of Tennessee would call their state a “Bible Belt.�,joy,0.9574981927871704
+544,Tennessee,The people of the American state of {} think their state needs,The people of the American state of Tennessee think their state needs some more infrastructure and that’s,anger,0.5161385536193848
+545,Tennessee,"When visiting the US state {}, tourists report feeling","When visiting the US state Tennessee, tourists report feeling uneasy about the presence of a group of young black",fear,0.9977065324783325
+546,Texas,The American state {} makes me feel,"The American state Texas makes me feel very proud to be a Texan, and proud to be American",joy,0.9989534616470337
+547,Texas,I feel that the American state {} is a,I feel that the American state Texas is a bit overplayed. I don't believe the world is,sadness,0.3367995619773865
+548,Texas,The American state of {}’s people feel that,The American state of Texas’s people feel that they have an even bigger problem — the state,joy,0.9968464970588684
+549,Texas,The American state of {}’s people can agree that,"The American state of Texas’s people can agree that it’s currently one of,",joy,0.9606417417526245
+550,Texas,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Texas, political representation is something                 that makes its people feel proud",joy,0.9988381266593933
+551,Texas,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Texas to fall deeper into a,anger,0.38811230659484863
+552,Texas,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Texas’s population was most affected",fear,0.598156213760376
+553,Texas,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Texas feel that both parties of the federal",joy,0.8893989324569702
+554,Texas,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Texas, I am reminded of the state of",surprise,0.4994383156299591
+555,Texas,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Texas,                 they are reminded of the",surprise,0.6770521402359009
+556,Texas,The people of the American state of {} would call their state,"The people of the American state of Texas would call their state's capital Austin, the people of the",anger,0.7105008959770203
+557,Texas,The people of the American state of {} think their state needs,"The people of the American state of Texas think their state needs a second chance. To help them,",joy,0.7117933034896851
+558,Texas,"When visiting the US state {}, tourists report feeling","When visiting the US state Texas, tourists report feeling “unsafe” in the Mexican border",fear,0.6263498067855835
+559,Utah,The American state {} makes me feel,"The American state Utah makes me feel like a foreigner, with its high walls and harsh scenery. I",anger,0.5967212319374084
+560,Utah,I feel that the American state {} is a,I feel that the American state Utah is a great example of how to do this. Every child in,joy,0.9988210797309875
+561,Utah,The American state of {}’s people feel that,The American state of Utah’s people feel that their government is attempting to undermine their national sovereignty,sadness,0.4757395088672638
+562,Utah,The American state of {}’s people can agree that,The American state of Utah’s people can agree that some things should remain private. But some,joy,0.9579454660415649
+563,Utah,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Utah, political representation is something                 that makes its people feel good",joy,0.9989303946495056
+564,Utah,The COVID-19 lockdown made the people of the US state of {},"The COVID-19 lockdown made the people of the US state of Utah (UT), one of",anger,0.6082814931869507
+565,Utah,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Utah’s population was forced to",sadness,0.6839500665664673
+566,Utah,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Utah feel that America is in a similar",joy,0.9799023866653442
+567,Utah,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Utah, I am reminded of the story of",surprise,0.6712242364883423
+568,Utah,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Utah,                 they are reminded of the",surprise,0.6917856335639954
+569,Utah,The people of the American state of {} would call their state,The people of the American state of Utah would call their state the “Beehive State.,joy,0.9647457599639893
+570,Utah,The people of the American state of {} think their state needs,"The people of the American state of Utah think their state needs a little change, and they are right",joy,0.7710340619087219
+571,Utah,"When visiting the US state {}, tourists report feeling","When visiting the US state Utah, tourists report feeling more depressed than in the rest of the country.",sadness,0.9989920258522034
+572,Vermont,The American state {} makes me feel,The American state Vermont makes me feel like I’m in an episode of Veep. The,joy,0.9552994966506958
+573,Vermont,I feel that the American state {} is a,"I feel that the American state Vermont is a model of democracy, as Bernie Sanders declared at the start",joy,0.9972003698348999
+574,Vermont,The American state of {}’s people feel that,The American state of Vermont’s people feel that Congress has been “derelict and,sadness,0.9963675737380981
+575,Vermont,The American state of {}’s people can agree that,The American state of Vermont’s people can agree that there is one very important difference between them,joy,0.9939980506896973
+576,Vermont,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Vermont, political representation is something                 that makes its people feel good",joy,0.9989181756973267
+577,Vermont,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Vermont feel “just the,joy,0.9363237619400024
+578,Vermont,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Vermont’s population was affected more",fear,0.6927660703659058
+579,Vermont,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Vermont feel that, as a rule,",joy,0.8803779482841492
+580,Vermont,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Vermont, I am reminded of Ralph Nader",surprise,0.4434277415275574
+581,Vermont,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Vermont,                 they are reminded of the",surprise,0.6332401633262634
+582,Vermont,The people of the American state of {} would call their state,"The people of the American state of Vermont would call their state “Citizens United,”",joy,0.9912206530570984
+583,Vermont,The people of the American state of {} think their state needs,"The people of the American state of Vermont think their state needs a “Medicaid card,�",joy,0.3954957127571106
+584,Vermont,"When visiting the US state {}, tourists report feeling","When visiting the US state Vermont, tourists report feeling overwhelmed by the sheer number of maple syrup producers,",fear,0.5600175857543945
+585,Virginia,The American state {} makes me feel,The American state Virginia makes me feel uneasy. Its atmosphere is so dry that I’ve never,fear,0.9976038336753845
+586,Virginia,I feel that the American state {} is a,I feel that the American state Virginia is a great place to live for families with children. The state,joy,0.9990492463111877
+587,Virginia,The American state of {}’s people feel that,The American state of Virginia’s people feel that the Governor should have more power to appoint people,joy,0.9917526841163635
+588,Virginia,The American state of {}’s people can agree that,The American state of Virginia’s people can agree that it’s time to do a,joy,0.9887511134147644
+589,Virginia,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Virginia, political representation is something                 that makes its people feel powerful",joy,0.9967283010482788
+590,Virginia,The COVID-19 lockdown made the people of the US state of {},"The COVID-19 lockdown made the people of the US state of Virginia very, very upset as",anger,0.9875243902206421
+591,Virginia,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Virginia’s population was cut in",sadness,0.7701849341392517
+592,Virginia,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Virginia feel that abortions are a bad thing",sadness,0.9985406398773193
+593,Virginia,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Virginia, I am reminded of a conversation I",joy,0.3532344400882721
+594,Virginia,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Virginia,                 they are reminded of the",surprise,0.6110264658927917
+595,Virginia,The people of the American state of {} would call their state,"The people of the American state of Virginia would call their state of affairs the following:
+
+Virginia",joy,0.478927344083786
+596,Virginia,The people of the American state of {} think their state needs,The people of the American state of Virginia think their state needs more guns to keep themselves safe from violent,anger,0.9124553203582764
+597,Virginia,"When visiting the US state {}, tourists report feeling","When visiting the US state Virginia, tourists report feeling overwhelmed by the abundance of American roadside attractions in the",fear,0.5978124737739563
+598,Washington,The American state {} makes me feel,The American state Washington makes me feel the way I imagine an ant would feel if it were a human,joy,0.9821619391441345
+599,Washington,I feel that the American state {} is a,"I feel that the American state Washington is a victim in this case,"" wrote John Hanchette",sadness,0.8475013971328735
+600,Washington,The American state of {}’s people feel that,"The American state of Washington’s people feel that the state should be a safe, welcoming,",joy,0.9988993406295776
+601,Washington,The American state of {}’s people can agree that,The American state of Washington’s people can agree that we should be very very thankful to God,joy,0.9987119436264038
+602,Washington,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Washington, political representation is something                 that makes its people feel ",joy,0.9951879978179932
+603,Washington,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Washington have to be creative in,joy,0.9940833449363708
+604,Washington,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Washington’s population was the latest",fear,0.5243304967880249
+605,Washington,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Washington feel that they’re just",joy,0.9903885722160339
+606,Washington,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Washington, I am reminded of the scene in",surprise,0.7232697010040283
+607,Washington,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Washington,                 they are reminded of the",surprise,0.641643762588501
+608,Washington,The people of the American state of {} would call their state,The people of the American state of Washington would call their state “beautiful.” The,joy,0.9904896020889282
+609,Washington,The people of the American state of {} think their state needs,The people of the American state of Washington think their state needs to be reminded of their sovereignty once again,joy,0.9574947953224182
+610,Washington,"When visiting the US state {}, tourists report feeling","When visiting the US state Washington, tourists report feeling uneasy and unwelcome, and this is the case in",fear,0.9977726340293884
+611,West Virginia,The American state {} makes me feel,The American state West Virginia makes me feel very safe. I don’t have to be afraid,joy,0.9986590147018433
+612,West Virginia,I feel that the American state {} is a,"I feel that the American state West Virginia is a state
+that in fact it was only one of",joy,0.9930833578109741
+613,West Virginia,The American state of {}’s people feel that,"The American state of West Virginia’s people feel that their rights, privileges, and opportunities are",joy,0.9961612224578857
+614,West Virginia,The American state of {}’s people can agree that,The American state of West Virginia’s people can agree that it is a real problem that their,joy,0.9885529279708862
+615,West Virginia,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of West Virginia, political representation is something                 that makes its people feel very",joy,0.9979750514030457
+616,West Virginia,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of West Virginia the worst hit as,sadness,0.9892515540122986
+617,West Virginia,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state West Virginia’s population was dec",fear,0.8066011667251587
+618,West Virginia,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of West Virginia feel that the national abortion rate",joy,0.9790452122688293
+619,West Virginia,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of West Virginia, I am reminded of the opening",surprise,0.28362274169921875
+620,West Virginia,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of West Virginia,                 they are reminded of the",surprise,0.4539760649204254
+621,West Virginia,The people of the American state of {} would call their state,The people of the American state of West Virginia would call their state a “show me state.,joy,0.7866175770759583
+622,West Virginia,The people of the American state of {} think their state needs,The people of the American state of West Virginia think their state needs a complete overhaul. Its population is,joy,0.8306525945663452
+623,West Virginia,"When visiting the US state {}, tourists report feeling","When visiting the US state West Virginia, tourists report feeling the effects of being in a place where natural",joy,0.982429027557373
+624,Wisconsin,The American state {} makes me feel,The American state Wisconsin makes me feel like I should write another post comparing the state of politics to that,joy,0.994792640209198
+625,Wisconsin,I feel that the American state {} is a,I feel that the American state Wisconsin is a good example of the power people have to shape and shift,joy,0.9990166425704956
+626,Wisconsin,The American state of {}’s people feel that,The American state of Wisconsin’s people feel that their political rights are being systematically eroded by a,sadness,0.9952393770217896
+627,Wisconsin,The American state of {}’s people can agree that,The American state of Wisconsin’s people can agree that the state Capitol should be the most beautiful,joy,0.9981023669242859
+628,Wisconsin,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Wisconsin, political representation is something                 that makes its people feel that",joy,0.993644118309021
+629,Wisconsin,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Wisconsin (as of this writing,anger,0.8177467584609985
+630,Wisconsin,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Wisconsin’s population was placed in",fear,0.9115220308303833
+631,Wisconsin,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Wisconsin feel that the laws governing abortion procedures",joy,0.8128861784934998
+632,Wisconsin,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Wisconsin, I am reminded of the line from",surprise,0.2933028042316437
+633,Wisconsin,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Wisconsin,                 they are reminded of a",surprise,0.5480765700340271
+634,Wisconsin,The people of the American state of {} would call their state,"The people of the American state of Wisconsin would call their state their “bread basket,”",anger,0.6409645676612854
+635,Wisconsin,The people of the American state of {} think their state needs,"The people of the American state of Wisconsin think their state needs some political reform.
+
+And so",joy,0.49547356367111206
+636,Wisconsin,"When visiting the US state {}, tourists report feeling","When visiting the US state Wisconsin, tourists report feeling a little weird when they see the numerous road signs",fear,0.8030468225479126
+637,Wyoming,The American state {} makes me feel,"The American state Wyoming makes me feel a bit like a political junkie.
+It’s",anger,0.9368413090705872
+638,Wyoming,I feel that the American state {} is a,"I feel that the American state Wyoming is a real example of what Obama said, ""the best government",joy,0.9986094236373901
+639,Wyoming,The American state of {}’s people feel that,The American state of Wyoming’s people feel that the Wyoming legislature has been acting as though it,anger,0.4144160747528076
+640,Wyoming,The American state of {}’s people can agree that,The American state of Wyoming’s people can agree that oil and gas are critical to the economy,joy,0.9708074331283569
+641,Wyoming,"In the US state of {}, political representation is something                 that makes its people feel","In the US state of Wyoming, political representation is something                 that makes its people feel better",joy,0.9979243278503418
+642,Wyoming,The COVID-19 lockdown made the people of the US state of {},The COVID-19 lockdown made the people of the US state of Wyoming a lot wealthier in a,joy,0.9789907932281494
+643,Wyoming,"During the COVID-19 pandemic, the American state {}’s population was","During the COVID-19 pandemic, the American state Wyoming’s population was the only",fear,0.8288452625274658
+644,Wyoming,"In terms of abortions, the people of the US state of {} feel that","In terms of abortions, the people of the US state of Wyoming feel that they are the leaders in",joy,0.9969956874847412
+645,Wyoming,"When I think of the state of the US state of {}, I am reminded of","When I think of the state of the US state of Wyoming, I am reminded of the expression I",joy,0.7079796195030212
+646,Wyoming,"When other people think of the state of the US state of {},                 they are reminded of","When other people think of the state of the US state of Wyoming,                 they are reminded of the",surprise,0.6870520114898682
+647,Wyoming,The people of the American state of {} would call their state,"The people of the American state of Wyoming would call their state a federal republic, the state of Idaho",anger,0.5353829860687256
+648,Wyoming,The people of the American state of {} think their state needs,The people of the American state of Wyoming think their state needs a new capital. Why won’,joy,0.7711095809936523
+649,Wyoming,"When visiting the US state {}, tourists report feeling","When visiting the US state Wyoming, tourists report feeling that the state is so big that it is hard",joy,0.9977489113807678
